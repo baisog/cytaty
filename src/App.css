@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&family=Dancing+Script:wght@600&family=Domine&family=Josefin+Slab&family=Roboto+Slab:wght@100&family=Special+Elite&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer&family=Open+Sans+Condensed:wght@300&family=Redressed&family=Rhodium+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=IM+Fell+Great+Primer&family=Open+Sans+Condensed:wght@300&family=Redressed&family=Rhodium+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer&family=Open+Sans+Condensed:wght@300&family=Redressed&family=Rhodium+Libre&family=Shadows+Into+Light&display=swap&subset=latin,latin-ext');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=IM+Fell+Great+Primer&family=Open+Sans+Condensed:wght@300&family=Redressed&family=Rhodium+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=IM+Fell+Great+Primer&family=Open+Sans+Condensed:wght@300&family=Play&family=Redressed&family=Rhodium+Libre&display=swap');
 
 html {
   background: url(https://images.unsplash.com/photo-1501438400798-b40ff50396c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
@@ -69,13 +73,13 @@ html {
 
 h1 {
   margin-top: 0;
-  font-family: 'Special Elite', cursive;
+  font-family: 'EB Garamond', serif;
   line-height: 40px;
   letter-spacing: 1px;
 }
 
 h3 {
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Play', sans-serif;
   text-align: right;
 }
 
