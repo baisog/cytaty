@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cytaty/static/css/main.7193ab3f.chunk.css",
+    "main.css": "/cytaty/static/css/main.8be4dc47.chunk.css",
     "main.js": "/cytaty/static/js/main.4b1505fa.chunk.js",
     "main.js.map": "/cytaty/static/js/main.4b1505fa.chunk.js.map",
     "runtime-main.js": "/cytaty/static/js/runtime-main.05b3e402.js",
@@ -8,15 +8,15 @@
     "static/js/2.44acadbc.chunk.js": "/cytaty/static/js/2.44acadbc.chunk.js",
     "static/js/2.44acadbc.chunk.js.map": "/cytaty/static/js/2.44acadbc.chunk.js.map",
     "index.html": "/cytaty/index.html",
-    "precache-manifest.d07f070f2bc3a1d90bd97312715d6e24.js": "/cytaty/precache-manifest.d07f070f2bc3a1d90bd97312715d6e24.js",
+    "precache-manifest.c3d44bc4185889af9eb0635c697596ed.js": "/cytaty/precache-manifest.c3d44bc4185889af9eb0635c697596ed.js",
     "service-worker.js": "/cytaty/service-worker.js",
-    "static/css/main.7193ab3f.chunk.css.map": "/cytaty/static/css/main.7193ab3f.chunk.css.map",
+    "static/css/main.8be4dc47.chunk.css.map": "/cytaty/static/css/main.8be4dc47.chunk.css.map",
     "static/js/2.44acadbc.chunk.js.LICENSE.txt": "/cytaty/static/js/2.44acadbc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.05b3e402.js",
     "static/js/2.44acadbc.chunk.js",
-    "static/css/main.7193ab3f.chunk.css",
+    "static/css/main.8be4dc47.chunk.css",
     "static/js/main.4b1505fa.chunk.js"
   ]
 }
